@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.2
+pyarrow>=15
+requests>=2.31
+urllib3>=1.26
+websocket-client>=1.6
+python-calamine>=0.2.3
+openpyxl>=3.1.5
+xlrd>=2.0.1
+beautifulsoup4>=4.12
+zmail>=0.2.8

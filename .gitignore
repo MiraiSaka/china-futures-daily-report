@@ -1,0 +1,32 @@
+# Credentials and local configuration
+.env
+.env.*
+credentials.json
+token.json
+*client_secret*.json
+*.pem
+*.key
+
+# Python and local runtimes
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.chromedl/
+
+# Downloaded, parsed, and generated artifacts
+raw/
+parsed/
+dominant/
+reports/
+报告/
+logs/
+backups/
+report_files/
+*.parquet
+*.zip
+
+# Local state
+.daily_job.lock
+.last_*
