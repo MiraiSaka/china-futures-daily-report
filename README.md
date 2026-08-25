@@ -4,7 +4,7 @@ An end-to-end six-exchange China futures pipeline that downloads and validates
 market data, tracks dominant contracts, generates HTML reports, and optionally
 delivers them through Mail SMTP.
 
-中国六家期货交易所数据下载与完整性校验、主力合约跟踪、HTML 日报生成，以及可选的邮箱自动发送工具（推荐163邮箱）。
+中国六家期货交易所数据下载与完整性校验、主力合约跟踪、HTML 日报生成，以及可选的邮箱自动发送工具（推荐163邮箱，下面也以163邮箱作为例子）。
 
 ## Scope
 
